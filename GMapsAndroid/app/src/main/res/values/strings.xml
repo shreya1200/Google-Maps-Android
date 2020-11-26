@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+<!--    <string name="map_key" translatable="false">Enter your google API key here</string>-->
+    <string name="title_activity_maps">Map</string>
+</resources>
